@@ -1,0 +1,5 @@
+C:\Users\jayakumar\Desktop\Programming Projects\Java\Experiment\prac\DistConv>javac conversion/DistanceConverter.java app/Exp10.java
+
+C:\Users\jayakumar\Desktop\Programming Projects\Java\Experiment\prac\DistConv>java app.Exp10
+10.0 miles is equivalent to 16.0934 kilometers
+16.09344 kilometers is equivalent to 10.000024854909467 miles
